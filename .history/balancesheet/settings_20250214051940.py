@@ -26,8 +26,8 @@ SECRET_KEY = 'django-insecure-fu%m=s3-ja4ofk+b3-7$#naqe$r6ri@p$c#1-7j4^$(3#lrdij
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "balance-sheet-system.onrender.com",  
-    "127.0.0.1",  
+    "balance-sheet-system.onrender.com",  # Add your Render domain
+    "127.0.0.1",  # Local development
     "localhost",
 ]
 

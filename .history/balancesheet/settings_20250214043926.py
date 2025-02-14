@@ -25,12 +25,7 @@ SECRET_KEY = 'django-insecure-fu%m=s3-ja4ofk+b3-7$#naqe$r6ri@p$c#1-7j4^$(3#lrdij
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    "balance-sheet-system.onrender.com",  
-    "127.0.0.1",  
-    "localhost",
-]
-
+ALLOWED_HOSTS = []
 
 
 # Application definition
