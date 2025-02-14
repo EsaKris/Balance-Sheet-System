@@ -31,11 +31,6 @@ ALLOWED_HOSTS = [
     "localhost",
 ]
 
-CSRF_TRUSTED_ORIGINS = [
-    "https://balance-sheet-system.onrender.com",  # Render domain
-    "http://127.0.0.1",  # Local development
-    "http://localhost",
-]
 
 
 
